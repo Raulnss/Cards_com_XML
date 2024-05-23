@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<listadefilme> 
+
+    <filme>
+    <img>img/john_wick.jpeg</img>
+    <nome>John Wick</nome>
+    <idade>16 anos</idade>
+    <horario>16:45</horario>
+    </filme>
+    
+    <filme>
+    <img>img/devoutaparaofuturo.jpeg</img>
+    <nome>De Volta para o Futuro</nome> 
+    <idade>12 anos</idade>
+    <horario>em 1985</horario>
+    </filme>
+    
+    <filme>
+    <img>img/mercenarios.jpeg</img>
+    <nome>Os Mercenários</nome>
+    <idade>12 anos</idade>
+    <horario>em 2010</horario>
+    </filme>
+    
+    <filme>
+    <img>img/exterminador.jpeg</img>
+    <nome>O Exterminador do Futuro</nome>
+    <idade>14 anos</idade>
+    <horario>em 1984</horario>
+    </filme>
+    
+    <filme>
+    <img>img/predador.jpeg</img>
+    <nome>O Predador</nome>
+    <idade>16 anos</idade>
+    <horario>em 1987</horario>
+    </filme>
+
+    <filme>
+    <img>img/rambo.jpeg</img>
+    <nome>Rambo - Programado para Matar</nome>
+    <idade>14 anos</idade>
+    <horario>em 1982</horario>
+    </filme>
+    
+    <filme>
+    <img>img/badboys.jpeg</img>
+    <nome>Bad Boys</nome>
+    <idade>16 anos</idade>
+    <horario>qualquer hora</horario>
+    </filme>
+    
+    <filme>
+    <img>img/deadpool.jpeg</img>
+    <nome>Deadpool</nome>
+    <idade>18 anos</idade>
+    <horario>sinceramente não sei</horario>
+    </filme>
+    
+    <filme>
+    <img>img/jumangi.jpeg</img>
+    <nome>Jumanji</nome>
+    <idade>10 anos</idade>
+    <horario>qualquer hora</horario>
+    </filme>
+    
+    <filme>
+    <img>img/xmen.jpeg</img>
+    <nome>X-Men - O Filme</nome>
+    <idade>12 anos</idade>
+    <horario>sempre</horario>
+    </filme>
+    
+    <filme>
+    <img>img/elizium.jpeg</img>
+    <nome>Elysium</nome>
+    <idade>16 anos</idade>
+    <horario>sempre</horario>
+    </filme>
+    
+    <filme>
+    <img>img/marte.jpeg</img>
+    <nome>Perdido em Marte</nome>
+    <idade>12 anos</idade>
+    <horario>raramente</horario>
+    </filme>
+    
+    <filme>
+    <img>img/300.jpeg</img>
+    <nome>300</nome>
+    <idade>16 anos</idade>
+    <horario>de vez em quando</horario>
+    </filme>
+    
+    <filme>
+    <img>img/candidatohonesto.jpeg</img>
+    <nome>O Candidato Honesto</nome>
+    <idade>12 anos</idade>
+    <horario>raramente</horario>
+    </filme>
+    
+    <filme>
+    <img>img/amanha.jpeg</img>
+    <nome>No Limite do Amanhã</nome>
+    <idade>14 anos</idade>
+    <horario>de vez em quando</horario>
+    </filme>
+    
+    <filme>
+    <img>img/preco.jpeg</img>
+    <nome>O Preço do Amanhã</nome>
+    <idade>12 anos</idade>
+    <horario>sempre</horario>
+    </filme>
+    
+    <filme>
+    <img>img/ferro.jpeg</img>
+    <nome>Homem de Ferro</nome>
+    <idade>12 anos</idade>
+    <horario>depende</horario>
+    </filme>
+    
+    <filme>
+    <img>img/ryan.jpeg</img>
+    <nome>O Resgate do Soldado Ryan</nome>
+    <idade>14 anos</idade>
+    <horario>raro</horario>
+    </filme>
+    
+    <filme>
+    <img>img/miranha.jpeg</img>
+    <nome>Homem-Aranha</nome>
+    <idade>livre</idade>
+    <horario>sempre</horario>
+    </filme>
+    
+    <filme>
+    <img>img/carros.jpeg</img>
+    <nome>Carros</nome>
+    <idade>livre</idade>
+    <horario>de vez em quando</horario>
+    </filme>
+    
+    </listadefilme>
